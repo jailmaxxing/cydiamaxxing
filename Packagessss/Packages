@@ -13,7 +13,7 @@ MD5sum: 63f4c2b1d874b1fede320088bc219376
 SHA1: 582375641a37983d236fd6f94f8762ccb80d753a
 SHA256: 9e0231602e8e628730f01787c9f1158cb13cab93b8fba1df57374d841f7a5a0b
 
-Package: uk.invoxiplaygames.tubefixer
+Package: net.angelxwind.appsyncunified
 Name: TubeFixer
 Version: 1.1
 Architecture: iphoneos-arm
@@ -21,7 +21,7 @@ Description: TubeFixer.
 Maintainer: Invoxi
 Author: Invoxi
 Section: Tweaks
-Depends: com.tekwik.youtube
+Depends: firmware (<=5.1.1) | com.tekwik.youtube
 Filename: debs/tubefixer-1.1.deb
 Size: 894
 MD5sum: 10955db2ddb81393bb34291216331bc7
