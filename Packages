@@ -21,7 +21,7 @@ Description: TubeFixer.
 Maintainer: Invoxi
 Author: Invoxi
 Section: Tweaks
-Depends: firmware (<=5.1.1) | com.tekwik.youtube
+Depends: com.tekwik.youtube
 Filename: debs/tubefixer-1.1.deb
 Size: 894
 MD5sum: 10955db2ddb81393bb34291216331bc7
