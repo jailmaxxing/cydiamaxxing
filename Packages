@@ -1,0 +1,14 @@
+Package: net.angelxwind.appsyncunified
+Name: AppSync
+Version: 9999.0
+Architecture: iphoneos-arm
+Description: Appsync Unified.
+Maintainer: Karen/あけみ's Repo
+Author: Karen/あけみ's Repo
+Section: Tweaks
+Depends: ai.akemi.appsyncunified
+Filename: debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 654
+MD5sum: 63f4c2b1d874b1fede320088bc219376
+SHA1: 582375641a37983d236fd6f94f8762ccb80d753a
+SHA256: 9e0231602e8e628730f01787c9f1158cb13cab93b8fba1df57374d841f7a5a0b
